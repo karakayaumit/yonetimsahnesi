@@ -1,0 +1,215 @@
+{
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bcf1ce39-9c8c-4e4f-bb45-646aea4b2c60/session/df5b861d-9cbc-4aee-89eb-c1a49332ffe7/horizontal-transparent-c4564df4-9ab9-4ee5-9cb4-e8588366d1f0/logo-logo.png",
+    "searchQuery": "A professional serif-inspired wordmark logo for \"Yönetim Sahnesi\" — a Turkish pr",
+    "alternatives": [
+      "/airo-assets/uploads/airo-logo-shimmer-horizontal.svg"
+    ],
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bcf1ce39-9c8c-4e4f-bb45-646aea4b2c60/session/df5b861d-9cbc-4aee-89eb-c1a49332ffe7/horizontal-transparent-c4564df4-9ab9-4ee5-9cb4-e8588366d1f0/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bcf1ce39-9c8c-4e4f-bb45-646aea4b2c60/session/df5b861d-9cbc-4aee-89eb-c1a49332ffe7/horizontal-solid-c4564df4-9ab9-4ee5-9cb4-e8588366d1f0/logo-logo.png"
+    },
+    "reversedUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bcf1ce39-9c8c-4e4f-bb45-646aea4b2c60/session/df5b861d-9cbc-4aee-89eb-c1a49332ffe7/horizontal-transparent-c4564df4-9ab9-4ee5-9cb4-e8588366d1f0/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bcf1ce39-9c8c-4e4f-bb45-646aea4b2c60/session/df5b861d-9cbc-4aee-89eb-c1a49332ffe7/horizontal-reversed-c4564df4-9ab9-4ee5-9cb4-e8588366d1f0/logo-logo.png"
+    },
+    "reversedSolidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bcf1ce39-9c8c-4e4f-bb45-646aea4b2c60/session/df5b861d-9cbc-4aee-89eb-c1a49332ffe7/horizontal-transparent-c4564df4-9ab9-4ee5-9cb4-e8588366d1f0/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bcf1ce39-9c8c-4e4f-bb45-646aea4b2c60/session/df5b861d-9cbc-4aee-89eb-c1a49332ffe7/horizontal-reversed-solid-c4564df4-9ab9-4ee5-9cb4-e8588366d1f0/logo-logo.png"
+    },
+    "mockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bcf1ce39-9c8c-4e4f-bb45-646aea4b2c60/session/df5b861d-9cbc-4aee-89eb-c1a49332ffe7/horizontal-transparent-c4564df4-9ab9-4ee5-9cb4-e8588366d1f0/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bcf1ce39-9c8c-4e4f-bb45-646aea4b2c60/session/df5b861d-9cbc-4aee-89eb-c1a49332ffe7/horizontal-mockup-c4564df4-9ab9-4ee5-9cb4-e8588366d1f0/logo-logo.png"
+    },
+    "landscapeMockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bcf1ce39-9c8c-4e4f-bb45-646aea4b2c60/session/df5b861d-9cbc-4aee-89eb-c1a49332ffe7/horizontal-transparent-c4564df4-9ab9-4ee5-9cb4-e8588366d1f0/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bcf1ce39-9c8c-4e4f-bb45-646aea4b2c60/session/df5b861d-9cbc-4aee-89eb-c1a49332ffe7/horizontal-mockup-c4564df4-9ab9-4ee5-9cb4-e8588366d1f0/logo-logo.png"
+    },
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/bcf1ce39-9c8c-4e4f-bb45-646aea4b2c60/session/df5b861d-9cbc-4aee-89eb-c1a49332ffe7/horizontal-transparent-c4564df4-9ab9-4ee5-9cb4-e8588366d1f0/logo-logo.png": {
+        "sessionId": "df5b861d-9cbc-4aee-89eb-c1a49332ffe7",
+        "logoId": "c4564df4-9ab9-4ee5-9cb4-e8588366d1f0"
+      }
+    },
+    "userModified": false,
+    "createdAt": "2026-06-26T06:40:57.210Z",
+    "lastUpdated": "2026-06-26T06:41:49.628Z"
+  },
+  "blog/article-agile-sprint": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2168414917",
+    "searchQuery": "agile scrum sprint board sticky notes project management",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1398717779",
+      "https://img1.wsimg.com/isteam/getty/508853041"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-26T06:41:04.222Z",
+    "lastUpdated": "2026-06-26T06:41:04.222Z",
+    "gettyId": "2168414917",
+    "alternativeGettyIds": [
+      "1398717779",
+      "508853041"
+    ],
+    "requestedSize": {
+      "width": 700,
+      "height": 450,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "cool",
+    "graphicalStyles": "photography"
+  },
+  "blog/article-leadership": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2245818645",
+    "searchQuery": "business leadership executive professional portrait office",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1438133166",
+      "https://img1.wsimg.com/isteam/getty/2167197373"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-26T06:41:05.669Z",
+    "lastUpdated": "2026-06-26T06:41:05.669Z",
+    "gettyId": "2245818645",
+    "alternativeGettyIds": [
+      "1438133166",
+      "2167197373"
+    ],
+    "requestedSize": {
+      "width": 500,
+      "height": 350,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "bold",
+    "graphicalStyles": "photography"
+  },
+  "pages/home/hero-featured": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2248787456",
+    "searchQuery": "strategic business planning leadership team meeting professional",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1917771195",
+      "https://img1.wsimg.com/isteam/getty/2161842568",
+      "https://img1.wsimg.com/isteam/getty/2275673989",
+      "https://img1.wsimg.com/isteam/getty/2170334004"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-26T06:41:06.017Z",
+    "lastUpdated": "2026-06-26T06:41:06.017Z",
+    "gettyId": "2248787456",
+    "alternativeGettyIds": [
+      "1917771195",
+      "2161842568",
+      "2275673989",
+      "2170334004"
+    ],
+    "requestedSize": {
+      "width": 1400,
+      "height": 700,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "compositions": "wide_shot",
+    "moods": "bold,cool",
+    "graphicalStyles": "photography",
+    "minimumSize": "x_large"
+  },
+  "blog/article-risk-management": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2177606958",
+    "searchQuery": "risk analysis data charts business strategy planning",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1000857494",
+      "https://img1.wsimg.com/isteam/getty/1471681943"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-26T06:41:06.382Z",
+    "lastUpdated": "2026-06-26T06:41:06.382Z",
+    "gettyId": "2177606958",
+    "alternativeGettyIds": [
+      "1000857494",
+      "1471681943"
+    ],
+    "requestedSize": {
+      "width": 500,
+      "height": 350,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "cool,dramatic",
+    "graphicalStyles": "photography"
+  },
+  "blog/article-team-dynamics": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2256933948",
+    "searchQuery": "team collaboration diverse group working together office",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2222555757",
+      "https://img1.wsimg.com/isteam/getty/2226043118"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-26T06:41:08.153Z",
+    "lastUpdated": "2026-06-26T06:41:08.153Z",
+    "gettyId": "2256933948",
+    "alternativeGettyIds": [
+      "2222555757",
+      "2226043118"
+    ],
+    "requestedSize": {
+      "width": 700,
+      "height": 450,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "warm,natural",
+    "graphicalStyles": "photography"
+  },
+  "team/author-photo": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2148406517",
+    "searchQuery": "professional business person headshot portrait confident",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/155600370",
+      "https://img1.wsimg.com/isteam/getty/1345504220"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-26T06:41:09.909Z",
+    "lastUpdated": "2026-06-26T06:41:09.909Z",
+    "gettyId": "2148406517",
+    "alternativeGettyIds": [
+      "155600370",
+      "1345504220"
+    ],
+    "requestedSize": {
+      "width": 120,
+      "height": 120,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "compositions": "headshot",
+    "graphicalStyles": "photography"
+  },
+  "pages/hakkinda/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2220453370",
+    "searchQuery": "professional writer working desk laptop books office",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2190607448",
+      "https://img1.wsimg.com/isteam/getty/2173644207"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-26T08:05:54.101Z",
+    "lastUpdated": "2026-06-26T08:05:54.101Z",
+    "gettyId": "2220453370",
+    "alternativeGettyIds": [
+      "2190607448",
+      "2173644207"
+    ],
+    "requestedSize": {
+      "width": 1200,
+      "height": 500,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "warm,natural",
+    "graphicalStyles": "photography"
+  }
+}
